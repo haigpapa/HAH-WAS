@@ -1,0 +1,6 @@
+{
+  "name": "HAH-WAS",
+  "description": "HAH-WAS (هَوَسْ) is a gamified mobile app that challenges players to detect AI-generated 'hallucinations' (misinformation). Set in a rich, culturally authentic Arabic context, the game sharpens critical thinking skills through daily quizzes on diverse topics. Players level up, earn XP, and compete on leaderboards while learning to distinguish fact from fiction in the digital age.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
